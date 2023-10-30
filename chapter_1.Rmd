@@ -1,0 +1,15 @@
+# About the project
+
+*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file, so you should use R Markdown syntax.*
+
+
+The course "Introduction to Open Data Sciences" provides a comprehensive overview of programs that can be used to analyze and present key findings of your scientific work. The course covers topics such as data analysis, visualization, and collaborative workflows. the course tries to keep up with the ever-developing field of open data, ensuring that participants are equipped with the latest tools and methodologies.
+
+You can find this in [GitHub repository](https://github.com/Sadukki/IODS-project).
+
+# This is a so-called "R chunk" where you can write R code.
+
+```{r}
+# This is an R code chunk
+date <- as.Date("2023-10-30")
+date
